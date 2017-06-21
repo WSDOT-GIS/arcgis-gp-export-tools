@@ -1,0 +1,11 @@
+{
+    "python.pythonPath": "C:/Program Files/ArcGIS/Pro/bin/Python/envs/arcgispro-py3/python",
+    "files.exclude": {
+        "**/*.pyc": { "when": "$(basename).py" },
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true
+    }
+}
